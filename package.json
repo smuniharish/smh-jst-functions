@@ -16,7 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smuniharish/jst-functions.git"
+    "url": "git+https://github.com/smuniharish/-smh-jst-functions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smuniharish/-smh-jst-functions/issues"
   },
   "keywords": [
     "@smh/jst-locale-helper",
