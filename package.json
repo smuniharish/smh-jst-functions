@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/smuniharish/-smh-jst-functions/issues"
   },
+  "homepage": "https://github.com/smuniharish/-smh-jst-functions#readme",
   "keywords": [
     "@smh/jst-locale-helper",
     "locale-helper",
