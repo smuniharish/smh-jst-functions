@@ -1,5 +1,5 @@
 {
-  "name": "@smh/jst-functions",
+  "name": "smh-jst-functions",
   "version": "0.0.1",
   "description": "Locale Helper",
   "main": "lib/index.js",
@@ -19,9 +19,9 @@
     "url": "git+https://github.com/smuniharish/-smh-jst-functions.git"
   },
   "bugs": {
-    "url": "https://github.com/smuniharish/-smh-jst-functions/issues"
+    "url": "https://github.com/smuniharish/smh-jst-functions/issues"
   },
-  "homepage": "https://github.com/smuniharish/-smh-jst-functions#readme",
+  "homepage": "https://github.com/smuniharish/smh-jst-functions#readme",
   "keywords": [
     "@smh/jst-locale-helper",
     "locale-helper",
