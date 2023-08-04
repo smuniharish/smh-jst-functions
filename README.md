@@ -64,7 +64,7 @@ Thanks to the authors of these libraries for inspiration
 
 ## Sponsor & Support
 
-To keep this library maintained and up-to-date please consider [sponsoring it on GitHub](https://github.com/sponsors/smuniharish). Or if you are looking for a private support or help in customizing the experience, then reach out to me on Linkedin [@smuniharish](https://www.linkedin.com/in/smuniharish).
+To keep this library maintained and up-to-date please consider [sponsoring it on GitHub](https://github.com/sponsors/smuniharish). Or if you are looking for a private support or help in customizing the experience, then reach out to me on Linkedin [@smuniharish](mailto:samamuniharish@gmail.com?subject=[GitHub]).
 
 ## License
 
