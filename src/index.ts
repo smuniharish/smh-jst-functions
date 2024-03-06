@@ -12,7 +12,7 @@ const getLocaleByCode = (code: string): LocaleInterface | string => {
 const getLocaleList = (): LocaleKeyInterface => {
   return LocaleCodesList;
 };
-const getLocaleByLanguage = (word: string):LocaleInterface[] | [] => {
+const getLocaleByLanguage = (word: string): LocaleInterface[] | [] => {
   const result = [];
   for (const key in LocaleCodesList) {
     const matchString = LocaleCodesList[key].language?.toLowerCase();
